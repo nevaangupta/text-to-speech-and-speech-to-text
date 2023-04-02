@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+h1{
+    font-variant: small-caps;
+    font-family: sans-serif;
+}
+input{
+    font-family: sans-serif;
+}
+button{
+    font-family: sans-serif;
+}
+span{
+    font-family: sans-serif;
+}
+input{
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
